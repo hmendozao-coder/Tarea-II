@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Usuario
+ * @author Henry Mendoza
  */
 public class MetodosDeOrdenamiento {
 
